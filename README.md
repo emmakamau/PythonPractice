@@ -1,6 +1,6 @@
 # Python Practice
 
-Various scripts written in python
+Various solutions written in python - https://www.practicepython.org/
 
 #### Birthday dates
 Request age from user and return age after 80 yrs
