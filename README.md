@@ -22,3 +22,6 @@ Checks whether a word is a palindrome
 
 #### List comprehension
 Return new list of even numbers with one line of code
+
+#### Rock paper scissors
+Make a two-player Rock-Paper-Scissors game.
