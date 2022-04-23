@@ -37,3 +37,6 @@ Write a program that takes a list of numbers and makes a new list of only the fi
 
 #### Fibonacci
 Write a program that asks the user how many Fibonnaci numbers to generate and then generates them.
+
+#### Remove Duplicates
+Write a program that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
