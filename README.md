@@ -31,3 +31,7 @@ Generate a random number between 1 and 9 (including 1 and 9). Ask the user to gu
 
 #### Prime number checker
 Check if a number is prime or not
+
+#### List end
+Write a program that takes a list of numbers and makes a new list of only the first and last elements of the given list.
+
