@@ -43,3 +43,6 @@ Write a program that takes a list and returns a new list that contains all the e
 
 #### Reverse word order
 Write a program (using functions!) that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order.
+
+#### Password Generator
+Write a password generator in Python. Be creative with how you generate passwords - strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. The passwords should be random, generating a new password every time the user asks for a new password.
