@@ -40,3 +40,6 @@ Write a program that asks the user how many Fibonnaci numbers to generate and th
 
 #### Remove Duplicates
 Write a program that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
+
+#### Reverse word order
+Write a program (using functions!) that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order.
